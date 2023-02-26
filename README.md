@@ -1,2 +1,2 @@
 # Scientific-Data-Extractor
-Python helper scripts
+Extracting molecular particle scientific data from TXT file, and saving them in CSV (Comma-Separated Values) file, in specific format.
